@@ -187,7 +187,7 @@
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "\n*Song Thapatte 💝🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Spirit Uploading 📲 Use 🎧*\n",
+            "UPLOADING_SONG": "\n*Abu Uploading 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*spirit bot completely up-to-date💝*",
-            "NEW_UPDATE": "*spirit bot Update Available*\n\n *type .update now before updating.🙂* \n *Ask support group and update☺️* ```https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4 \n\nChanges:\n```",
+            "UPDATE": "*Abu bot completely up-to-date💝*",
+            "NEW_UPDATE": "*Abu bot Update Available*\n\n *type .update now before updating.🙂* \n *Ask support group and update☺️* ```https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4 \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*spirit bot UPDATED✅*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated spirit bot😍*",
-            "AFTER_UPDATE": "*spirit bot Restarting😎*"
+            "UPDATED": "*Abu bot UPDATED✅*",
+            "UPDATED_LOCAL": "*✅ Successfully Updated Abu bot😍*",
+            "AFTER_UPDATE": "*Abu bot Restarting😎*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -315,10 +315,10 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Converting Video to Audio..```",
+            "MP4TOAUDİO": "```Abu Converting Video to Audio..```",
             "STİCKER_DESC": "Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*Photokk Reply ayitt ayakk*",
-            "STİCKER": "```Converting...```",
+            "STİCKER": "```Abu Converting...```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -412,7 +412,7 @@
         "unvoice": {
             "UV_DESC": "Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to an Audio File!*",
-            "UV_PROC": "```Converting to Sound Recording..```"
+            "UV_PROC": "```Abu Converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
