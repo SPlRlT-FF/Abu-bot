@@ -110,7 +110,7 @@
             "value": "^[.!;]"
         },
         "CHAT_BOT": {
-            "description": "Turn your account into a chatbot! .abuser on/off",
+            "description": "Turn your account into a chatbot! .amalser on/off",
             "required": true,
             "value": "false"
         },
@@ -179,7 +179,7 @@
             "value": "༺═══❃ABU SER❃═══༻"
         },
         "WORK_TYPE": {
-            "description": "Abuser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Amalser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -264,10 +264,7 @@
             "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
             "required": false,
             "value": "true"
-        }"STICKER_PACKNAME": {
-            "description": "Sticker pack name,author",
-            "value": "Abu 💝"
-        },
+        }
     },
     "addons": [{
       "plan": "heroku-postgresql"
