@@ -7,20 +7,20 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.imgur.com/aO8uCtQ.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.ibb.co/QDpVJ7m/IMG-20220120-WA0097.jpg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*spirit  bot created by Spirit*
-*Creator number : wa.me/16052772640?text=Hi%20spirit%20%20*
+*Cʀᴇᴀᴛᴇʀ number : wa.me/917025994178?text=Hɪ%20Aʙʜ%20%20*
 
-*spirit bot group* : https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
+*Aʙᴜ Sᴇʀ Bᴏᴛ Gʀᴏᴜᴘ Lɪɴᴋ* : https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk
 
-*Githublink (Setup)* :    https://github.com/SPlRlT-YT/spirit-bot
+*Gɪᴛ Lɪɴᴋ Fᴏʀ Bᴏᴛ (Sᴇᴛᴜᴘ)* :    https://github.com/Ajx-Abu/Abu-bot
 
-*Audio commads* :   https://github.com/SPlRlT-YT/spirit-bot/tree/master/uploads
+*Aᴜᴅɪᴏ Cᴏᴍᴍᴀɴᴅs * :   https://github.com/Ajx-Abu/Abu-bot/tree/master/uploads
 
-*Sticker commads* : https://github.com/SPlRlT-YT/spirit-bot/tree/master/sticker
+*Sᴛɪᴄᴋᴇʀ Cᴏᴍᴍᴀɴᴅs* : https://github.com/Ajx-Abu/Abu-bot/tree/master/sticker
 
-*My channel* : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA 
+*Mʏ Cʜᴀɴᴀʟ* : https://youtube.com/channel/UCvWLxIw5MQvbD7It9A5-3Ow 
 
 *For More Updates Subscribe The Channel ☝*
 `}) 
