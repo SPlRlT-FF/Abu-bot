@@ -1,6 +1,18 @@
-![Abu bot](https://i.ibb.co/QDpVJ7m/IMG-20220120-WA0097.jpg?size=1500)
+<div align="center">
+<div align="center">
+  <p align="center">
+<img src=https://i.ibb.co/nPSmv7d/dd75acba3c0361cca99b05b1e5b6d5c6.png>
+</p>
+ </a>
+</p>
 
-## [![Abu-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+Abu+bot+WA+Bot+Repo;Created+by+Abu+ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+<div align="center">
+  <p align="center">
+<img src=https://i.ibb.co/3y75Fkk/maaluttty.jpg>
+</p>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+ABUSER+WA+BOT+REPO;CREATED+BY+AJX+ABU;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+
 
 
 ## Setup
