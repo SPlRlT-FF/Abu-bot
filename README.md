@@ -1,6 +1,6 @@
-![spirit bot](https://i.imgur.com/aO8uCtQ.jpg?size=1500)
+![Abu bot](https://i.ibb.co/QDpVJ7m/IMG-20220120-WA0097.jpg?size=1500)
 
-## [![spirit-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+spirit+bot+WA+Bot+Repo;Created+by+spirit+ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Abu-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+Abu+bot+WA+Bot+Repo;Created+by+Abu+ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
 
 ## Setup
@@ -10,7 +10,7 @@
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/spirit-bot.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Abu-bot.git)
      </div>
 <br>
 <br >
@@ -26,7 +26,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/SPlRlT-YT/spirit-bot
+$ git clone https://github.com/Ajx-Abu/Abu-bot
 $ cd spirit-bot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -36,7 +36,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/SPlRlT-YT/spirit-bot
+$ git clone https://github.com/Ajx-Abu/Abu-bot
 $ cd spirit-bot
 $ chmod +x *
 $ npm i
@@ -57,8 +57,8 @@ By establishing the spirit-bot, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
- [![SPlRlT-YT](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT)  
-[](https://github.com/spirit-bot)[spirit ser](https://github.com/SPlRlT-YT) 
+ [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu)  
+[Abu bot](https://github.com/Abu-bot)[Abuser](https://github.com/Ajx-Abu) 
   </div>
 
 
