@@ -10,18 +10,18 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/aO8uCtQ.jpg";
+    r_text[0] = "https://i.ibb.co/QDpVJ7m/IMG-20220120-WA0097.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💝sᴘɪʀɪᴛ💝━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💝ᴀʙᴜ💝━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 sᴘɪʀɪᴛ 𝐛𝐨𝐭.
-            *sᴘɪʀɪᴛ ʙᴏᴛ*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 ᴀʙᴜ 𝐛𝐨𝐭.
+            *ᴀʙᴜ ʙᴏᴛ*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🎴𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□sᴘɪʀɪᴛ ʙᴏᴛ■□■□■□■□■□
+■□■□■□■□■□ᴀʙᴜ ʙᴏᴛ■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 ♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -132,10 +132,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🎴𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp sᴘɪʀɪᴛ
+⚠️ex  attp ᴀʙᴜ
 ■□■□■□■□■□■□■□■□■□■□
-═════💢sᴘɪʀɪᴛ ʙᴏᴛ💢═════
-▣▣▣▣▣▣▣▣sᴘɪʀɪᴛ▣▣▣▣▣▣▣▣▣▣▣
+═════💢ᴀʙᴜ ʙᴏᴛ💢═════
+▣▣▣▣▣▣▣▣ᴀʙᴜ▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
