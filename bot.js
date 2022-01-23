@@ -111,21 +111,6 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.green.bold('✅ Login successful!')
         );
-        console.log(
-            chalk.blueBright.italic('Confirming password...')
-        );
-        if (config.AFPLK == 'abuser' || config.AFPLK == 'ABUOP' || config.AFPLK == 'vava' || config.AFPLK == 'Abuser') {
-        //thanks to afnanplk
-        console.log(
-            chalk.green.bold('thanks for watching -key cofirmed-')
-        );
-         }
-         else if (config.AFPLK !== 'abuser' || config.AFPLK !== 'ABUOP' || config.AFPLK !== 'vava' || config.AFPLK !== 'Abuser') {
-         console.log(
-            chalk.red.bold('make sure you have typed the correct password'));
-         throw new Error("Password Error ⚠⚠ ");         
-         return; //created by afnanplk
-         }
 
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
@@ -398,7 +383,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *ABU SER BOT ERROR!* ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *ABU BOT ERROR!* ~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```*Report errors\njoin with +91 \n https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk ' 
                                     , MessageType.text);
                             }
